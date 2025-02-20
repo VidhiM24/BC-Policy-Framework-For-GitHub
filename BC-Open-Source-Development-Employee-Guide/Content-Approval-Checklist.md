@@ -44,9 +44,9 @@ The Open Content Assessment must be completed by ministries to ensure that there
 
 | Name: |   |
 | --- | --- |
-| URL (if appropriate): |   |
-| Description: |   |
-| Format: |   |
+| URL (if appropriate): | https://raw.githubusercontent.com/bcgov/nr-epd-bc-waste-calculator/refs/heads/prod/export/output.json  |
+| Description: |  The json contains regional district disposal data such as regional district name, population, disposal facility name, owner, authorization number, municipality name etc |
+| Format: | JSON  |
 
 
 
