@@ -11,8 +11,8 @@ Any "No" answers require additional investigation.
 
 | **Open Content Assessment Checklist** | **Yes** | **No** |
 | --- | --- | --- |
-| **Privacy:** _Ministries may contact Knowledge and Information Services to assist in this assessment._ |
-| Is the content free of Personal Information that may directly identify an individual (e.g., name, phone number, photo, address, driver's license number or any similar identification number)? |   |   |
+| **Privacy:** _Ministry staff may contact their respective Ministry Privacy Officers to assist in an assessment of whether there is any Personal Information._ |
+| Is the content free of Personal Information that may directly identify an individual (e.g., name, phone number, photo, address, driver's license number or any similar identification number)? |  Yes |   |
 | **Copyright:** _Ministries  **must**  contact the Intellectual Property Program to assist in this assessment. Any legal review or legal advice will provided by Legal Services Branch_. |
 | Is the content created solely by B.C. government employees? |  yes   |   |
 | Is the content fully owned by the B.C. government (i.e., have you ensured that it does not contain any third party content)?_Note: collect copies of any contracts related to the content for review with IPP_ |  yes   |   |
