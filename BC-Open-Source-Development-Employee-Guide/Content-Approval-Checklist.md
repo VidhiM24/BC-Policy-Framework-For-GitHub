@@ -22,8 +22,8 @@ Any "No" answers require additional investigation.
 | Is the public release and use of the Content permitted under law, contract or policy (e.g., have you ensured that there are no relevant legal, contractual or policy restrictions or limitations)? |  yes   |   |
 | If there are legal, contractual or policy restrictions or limitations to the public release or use of theContent, have they been addressed? | yes    |   |
 | **Security Controls** |     |   |
-| Have you contacted your ministry information security officer (MISO) to ensure that all necessary security controls have been implemented? |     |   |
-| Has the material been labelled as 'Public' using the Information Security Classification Framework? |     |   |
+| Have you contacted your ministry information security officer (MISO) to ensure that all necessary security controls have been implemented? | Yes    |   |
+| Has the material been labelled as 'Public' using the Information Security Classification Framework? |  Yes   |   |
 
 ## Open Content Assessment
 
@@ -62,7 +62,7 @@ The Open Content Assessment must be completed by ministries to ensure that there
 **Approval**
 
 | Has the Deputy Minister (or delegate) approved the material for posting on a social repository? | Yes / No |
-| --- | --- |
+|  | --- |
 
 
 
